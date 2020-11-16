@@ -11,7 +11,7 @@ This program is a budget tracking application. It has the ability to even functi
 * [License](#License)
 
 ## Screenshots
-![Homepage](./src/assets/images/screenshot.jpg)
+![Homepage](./img/screenshot.jpg)
 
 ## Usage
 
